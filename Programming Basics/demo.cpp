@@ -22,7 +22,7 @@ int main()
 
         /* Check if the input operation failed (i.e., input
         was not an integer).*/
-        
+
         if (cin.fail()) {
             // Clear the error flags on the input stream.
             cin.clear();
