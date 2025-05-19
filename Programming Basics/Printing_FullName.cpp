@@ -6,6 +6,6 @@ int main(){
     f_name = 'S';
     m_name = '_';
     l_name = 'K';
-    cout << "My full name is " << f_name << m_name << l_name << endl;
+    cout << "My name is " << f_name << m_name << l_name << endl;
     return  0;
 }
